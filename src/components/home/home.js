@@ -36,7 +36,7 @@ class home extends Component {
           <Card.Body>
             <Card.Title>iphone xr </Card.Title>
             <Card.Text>
-            etat de batterie = 91 %
+            etat de batterie = 91 % (d'origine)
               chargeur 
               ecouteur 
 
